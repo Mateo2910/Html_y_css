@@ -30,15 +30,15 @@ Información:
  - Se realizaron 15 ejercicios en la version HTML_v2(HTML 5) con imagenes insertadas, donde los ejercicios que tenian etiqueta de img, se le insertaron imagenes relacionados al tema planteado en el codigo.
 
  ✅
- -Documentacion en los codigos donde se digito la entidad, ficha, programa, autor, objetivo, fecha de creacion, fecha de modificacion, y su version, no va incluido en la ejecucion sino queda marcado en el codigo sin ninguna interferencia.
+ - Documentacion en los codigos donde se digito la entidad, ficha, programa, autor, objetivo, fecha de creacion, fecha de modificacion, y su version, no va incluido en la ejecucion sino queda marcado en el codigo sin ninguna interferencia.
 
  ✅
- -Se realizaron 15 ejercicios de version HTML_v2-CSS(HTML 5 con CSS) con variedad de estilos en fondo como el color de fondo, tambien la letra con sus colores, tipografia, tamaños y posiciones (HTML5-CSS).
+ - Se realizaron 15 ejercicios de version HTML_v2-CSS(HTML 5 con CSS) con variedad de estilos en fondo como el color de fondo, tambien la letra con sus colores, tipografia, tamaños y posiciones (HTML5-CSS).
  ✅
- -Documentacion en los codigos donde se digito la entidad, ficha, programa, autor, objetivo, fecha de creacion, fecha de modificacion, y su version, no va incluido en la ejecucion sino queda marcado en el codigo sin ninguna interferencia.
+ - Documentacion en los codigos donde se digito la entidad, ficha, programa, autor, objetivo, fecha de creacion, fecha de modificacion, y su version, no va incluido en la ejecucion sino queda marcado en el codigo sin ninguna interferencia.
 
  ✅
- -Validacion en la pagina W3C validator solamente en las versiones HTML_V2(HTML 5) y version HTML_v2-CSS.
+ - Validacion en la pagina W3C validator solamente en las versiones HTML_V2(HTML 5) y version HTML_v2-CSS.
 
 🚫 -La version html no fue validada por W3C validator, ya que estos ejercicios fueron copiados de los ejemplos propuestos en clase, por lo tanto se digitaron de la misma manera como estaban en los ejemplos.
 
