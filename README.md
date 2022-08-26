@@ -34,6 +34,7 @@ Información:
 
  ✅
  - Se realizaron 15 ejercicios de version HTML_v2-CSS(HTML 5 con CSS) con variedad de estilos en fondo como el color de fondo, tambien la letra con sus colores, tipografia, tamaños y posiciones (HTML5-CSS).
+ 
  ✅
  - Documentacion en los codigos donde se digito la entidad, ficha, programa, autor, objetivo, fecha de creacion, fecha de modificacion, y su version, no va incluido en la ejecucion sino queda marcado en el codigo sin ninguna interferencia.
 
